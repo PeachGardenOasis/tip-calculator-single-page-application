@@ -3,7 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace lab2_singlewebpageapp.Controllers
 {
-    public class HomeController : Controller // Traffic Cop
+    public class HomeController : Controller // Traffic Cop 
+        // httpsclone PUSH
     {
         [HttpGet] // http get
         public IActionResult Index()

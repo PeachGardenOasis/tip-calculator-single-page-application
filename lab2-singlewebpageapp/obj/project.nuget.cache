@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "afdhn0KkaNo7RiVZN9Wgr+TbK3zedLB9r1HRZuJL6MoYLSaY+hc7sz4MLZBxQ0q4v33a8pdbAApcnWcO/JXf1Q==",
+  "dgSpecHash": "+Ljj+wH8ykg+lQrAZC5Pttw+6Xwz1vAcpypEkX+2QTmcredq5PxlCf4JfIiH+U1hAiJLYPOMo9ceqWfnXqhQ3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simon\\Documents\\`School\\`T127 SEM 4\\[C#] Web Application Development\\w3 01-26\\lab2\\lab2-singlewebpageapp\\lab2-singlewebpageapp.csproj",
+  "projectFilePath": "C:\\Users\\simon\\Documents\\`School\\`T127 SEM 4\\[C#] Web Application Development\\w3 01-26\\LAB2HTTPS\\lab2-singlewebpageapp\\lab2-singlewebpageapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simon\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\simon\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
